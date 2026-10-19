@@ -10,3 +10,15 @@
 
 
 https://huggingface.co/zed122/gptq-gguf-toolkit
+
+
+
+
+
+from
+
+https://github.com/IST-DASLab/gptq-gguf-toolkit/tree/main
+
+
+
+thank you IST-DASLab
